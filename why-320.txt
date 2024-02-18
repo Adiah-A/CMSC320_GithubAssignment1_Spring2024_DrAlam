@@ -1,0 +1,4 @@
+I am interested in CMSC 320, Introduction to Data Science, because it offers a comprehensive overview of essential concepts and techniques in the field of data science. The course covers a wide range of topics including data management systems, exploratory and statistical data analysis, data and information visualization, and effective presentation and communication of analysis results. These are fundamental skills necessary for anyone aspiring to work in data science or related fields.
+
+Moreover, the emphasis on case studies drawn from real-world applications ensures practical relevance and provides opportunities for hands-on learning. Additionally, the prospect of completing a publicly-available final project is appealing as it not only reinforces learning but also allows for the development of a tangible asset for my data science portfolio.
+
